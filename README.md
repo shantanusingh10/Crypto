@@ -1,4 +1,4 @@
-# decrypt
+# Crypto
 Programs to crypt and decrypt .txt files with an integer key
 
 #How to use - 
